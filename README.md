@@ -6,6 +6,9 @@ Abstract: 'MSDS6306: Doing Data Science - Case Study 01: Beer & Brewery. I clean
 
 ## Contents of repository
 
+1. Datasets  
+2. Presentation
+
 ## Summary of findings
 
 ## Conclusion
