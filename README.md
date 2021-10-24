@@ -9,6 +9,8 @@ Abstract: MSDS6306: Doing Data Science - Case Study 01: Beer & Brewery. I cleane
 2. Codes: RMD, knitted html
 3. Presentation: PDF of powerpoint, recorded presentation, plotly of IBU distribution by cities
 
+## Motivation of case study
+
 ## Summary of findings
 
 - ABV and IBU are linearly correlated  
