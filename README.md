@@ -13,5 +13,6 @@ Abstract: 'MSDS6306: Doing Data Science - Case Study 01: Beer & Brewery. I clean
 
 - ABV and IBU are linearly correlated  
 - Ale and IPA styles have different median ABV and IBU values
+- Number of breweries per city and maximum IBU are linearly correlated
 
 ## Conclusion
