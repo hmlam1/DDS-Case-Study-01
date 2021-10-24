@@ -7,7 +7,7 @@ Abstract: MSDS6306: Doing Data Science - Case Study 01: Beer & Brewery. I cleane
 
 1. Datasets: Beer & brewery csv files  
 2. Codes: RMD, knitted html
-3. Presentation: PDF of powerpoint, recorded presentation, plotly of IBU distribution by cities
+3. Presentation: PDF of powerpoint, plotly of IBU distribution by cities
 
 ## Motivation of case study
 
